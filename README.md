@@ -6,14 +6,14 @@ RWC 2023 Pools API allows you to search a database of countries and be returned 
 ### Tech Used: HTML, Javascript, Express, Node
 
 ## Link to API: 
---TBD--
+https://basic-rwc2023-pools-api.cyclic.app/api
 
 
 ## How to use the API:
 
 Add the name of a country to the URL to get back their data
 
-Example: https://TBD/api/country
+Example: https://basic-rwc2023-pools-api.cyclic.app/api/country
 
 
 
